@@ -1,0 +1,30 @@
+_repo: Optical-ProjectionPart-1--Projection-of-Lantern-Slides_33899
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wright, Lewis
+    birthdate: 1838
+    deathdate: 1905
+    gutenberg_agent_id: '36845'
+    url: http://www.gutenberg.org/2009/agents/36845
+  - agent_name: Wright, Russell Stuart
+    alias: Wright, Russell S.
+    gutenberg_agent_id: '36847'
+    url: http://www.gutenberg.org/2009/agents/36847
+description: ''
+gutenberg_issued: '2010-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lantern projection'
+- !lcc 'Q'
+title: 'Optical Projection. Part 1: The Projection of Lantern Slides'
+url: http://www.gutenberg.org/ebooks/33899
